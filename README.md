@@ -3,15 +3,15 @@ EDGELINE Data Analysis Internship project using Excel, Power BI And Visualizatio
 
 ## 🎯 Project Objectives
 
-1 Analyze patient and admission volumes
-2 Evaluate departmental performance
-3 Analyze hospital revenue
-4 Understand patient outcomes
-5 Monitor patient waiting time and length of stay
-6 Identify common diagnoses
-7 Analyze payment status
-8 Examine monthly admission trends
-9 Provide actionable recommendations for hospital management
+1. Analyze patient and admission volumes
+2. Evaluate departmental performance
+3. Analyze hospital revenue
+4. Understand patient outcomes
+5. Monitor patient waiting time and length of stay
+6. Identify common diagnoses
+7. Analyze payment status
+8. Examine monthly admission trends
+9. Provide actionable recommendations for hospital management
 
 ## 🛠️ Tools & Techniques Used
 ### Microsoft Excel
